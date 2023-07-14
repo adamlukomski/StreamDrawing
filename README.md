@@ -1,6 +1,6 @@
 # StreamDrawing
 
-![white canvas with hello world](/images/image_001.png)
+![white canvas with hello world](/images/image_000.png)
 
 A tiny full screen drawing app - for streaming
 
